@@ -1,0 +1,9 @@
+src/data/
+src/datasets/
+Lib/
+share/
+venv
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
